@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Evgzhul
+- 👋 Hi, I’m @evgzhul
 - 👀 I’m interested in procedural algorithms, math, web development
 - 🌱 I’m currently learning Python
 
